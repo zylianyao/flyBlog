@@ -1,4 +1,4 @@
-该模版由Layui官方社区（[http://fly.layui.com/](fly.layui.com)）倾情提供，只为表明我们对 Layui 执着的信念、以及对未来持续加强的承诺。模版基于Layui搭建而成，非常适用于简约轻量的问答社区。
+该模版由Layui官方社区（[http://fly.layui.com/](fly.layui.com)）倾情提供，只为表明我们对 Layui 执着的信念、以及对未来持续加强的承诺。模版基于Layui搭建而成，可作为一个简约问答社区的页面支撑。
 
 # 目录说明
 ```
