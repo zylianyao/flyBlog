@@ -1,4 +1,4 @@
-该模版由Layui官方社区（[http://fly.layui.com/](http://fly.layui.com/)）倾情提供，只为表明我们对 Layui 执着的信念、以及对未来持续加强的承诺。模版基于Layui搭建而成，可作为一个简约问答社区的页面支撑。
+﻿该模版由Layui官方社区（[http://fly.layui.com/](http://fly.layui.com/)）倾情提供，只为表明我们对 Layui 执着的信念、以及对未来持续加强的承诺。模版基于Layui搭建而成，可作为一个简约问答社区的页面支撑。
 
 # 目录说明
 ```
@@ -20,7 +20,7 @@
 
 # 全屏风格
 模版提供了全屏风格，你可以打开 html/full.html预览效果
-使用全屏风格只需在原有css的基础上，引入 css/full.css即可
+使用全屏风格只需在原有css的基础上，引入 css/full.css即可。
 
 # 部分页面预览
 
